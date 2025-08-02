@@ -1,8 +1,9 @@
 {
-  "latest_version": "1.3",
-  "download_link": "https://github.com/jocedeepak1614/public-service-app/releases/download/v1.3/PublicServiceApp_v1.3.exe",
-  "release_notes": "🆕 Added: Comment box, ChatGPT explanation, GitHub update support, improved UI, and bug fixes."
+  "latest_version": "1.4",
+  "download_link": "https://raw.githubusercontent.com/jocedeepak1614/public-service-app/main/PublicServicePreparationInstaller.exe",
+  "release_notes": "🆕 Added: Comment box, GitHub update support, improved UI, and bug fixes, added new questions."
 }
+
 
 
 
